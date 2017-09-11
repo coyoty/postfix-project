@@ -1,0 +1,3 @@
+/home/andy/work/postfix-3.2.2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/andy/work/postfix-3.2.2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/andy/work/postfix-3.2.2/cmake-build-debug/CMakeFiles/postfix_3_2_2.dir
