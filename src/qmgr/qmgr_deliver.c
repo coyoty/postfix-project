@@ -355,6 +355,8 @@ static void qmgr_deliver_update(int unused_event, void *context)
 	}
     }
 
+    msg_info("here");
+
     /*
      * No problems detected. Mark the transport and queue as alive. The queue
      * itself won't go away before we dispose of the current queue entry.
